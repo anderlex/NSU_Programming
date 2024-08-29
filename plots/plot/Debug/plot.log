@@ -1,0 +1,4 @@
+﻿  plot.cpp
+C:\Users\bleep\Desktop\Прога месы\plots\plot\plot.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bleep\Desktop\Прога месы\plots\plot\plot.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+  plot.vcxproj -> C:\Users\bleep\Desktop\Прога месы\plots\plot\Debug\plot.exe
